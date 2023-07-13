@@ -1,0 +1,8 @@
+body {  /*this is the body's background color in black in hexadecimal it is #000000 */
+    background-color: black;
+}
+
+canvas {    /* this is the position of the canvas margin in web page from leg and top */
+    margin-left: 300px;
+    margin-top: 50px;
+}
